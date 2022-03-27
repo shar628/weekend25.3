@@ -1,0 +1,27 @@
+*{
+margin: auto;
+box-sizing: border-box;
+max-width: 960px;
+}
+
+
+.container {
+    text-align: center;
+}
+
+ {
+
+}
+.pixar {
+    text-align: left;
+    font-size: 40px;
+}
+
+ {
+
+}
+#header {
+    text-align: right;
+    font-size: small;
+}
+ 
